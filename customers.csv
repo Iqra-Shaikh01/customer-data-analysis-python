@@ -1,0 +1,16 @@
+CustomerID,Age,Gender,City,PurchaseAmount,ProductsPurchased,Membership
+101,22,Female,Mumbai,2500,3,Gold
+102,28,Male,Delhi,1800,2,Silver
+103,35,Female,Pune,4200,5,Gold
+104,24,Male,Mumbai,1200,1,Bronze
+105,31,Female,Bangalore,3500,4,Gold
+106,27,Male,Delhi,900,1,Bronze
+107,40,Female,Mumbai,5000,6,Gold
+108,23,Male,Pune,1500,2,Silver
+109,29,Female,Bangalore,2800,3,Silver
+110,36,Male,Mumbai,4500,5,Gold
+111,25,Female,Delhi,2000,2,Silver
+112,32,Male,Pune,3200,4,Gold
+113,21,Female,Mumbai,800,1,Bronze
+114,38,Male,Bangalore,3900,4,Gold
+115,30,Female,Delhi,2600,3,Silver

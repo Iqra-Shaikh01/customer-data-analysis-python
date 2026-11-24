@@ -1,0 +1,27 @@
+CUSTOMER DATA ANALYSIS USING PYTHON
+
+PROJECT OVERVIEW
+Analysed customer purchase data using Python.
+
+KEY FINDINGS
+
+1. Total customers: 15
+2. Total revenue: Rs. 40,400
+3. Average purchase: Rs. 2,693.33
+4. Highest purchase: Rs. 5,000
+5. Top-performing city: Mumbai
+6. Highest revenue membership: Silver
+7. Average customer age: 29.4 years
+
+TOOLS USED
+Python
+Pandas
+Matplotlib
+Seaborn
+
+VISUALISATIONS
+1. Customers by Membership
+2. Customers by City
+3. Sales by City
+4. Customer Age Distribution
+5. Sales by Membership
